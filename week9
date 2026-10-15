@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include "employees.h"
+Page 3 of 15
+void addEmployee(void)
+{
+printf("Adding employee...\n");
+}
+void listEmployees(void)
+{
+printf("Listing employees...\n");
+}
+double calculatePayrollTotal(void)
+{
+return 0.0;
+}
